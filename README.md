@@ -15,6 +15,9 @@
 
 ​🛠️ How to Use
 ​Run the program.
+
 ​Press 1 to Add a new contact (Enter Name and Phone Number).
+
 ​Press 2 to Search for a contact (Enter the name to find the associated number).
+
 ​Press 3 to Exit the application.
